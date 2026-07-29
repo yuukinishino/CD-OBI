@@ -1,2 +1,2 @@
 # CD-OBI
-remake obi/design obi
+仅供个人欣赏、学习之用
